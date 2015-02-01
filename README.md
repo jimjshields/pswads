@@ -4,7 +4,7 @@ Following along with the book to learn/practice implementing and solving problem
 
 1. ~~Intro~~
   * Exercises
-2. Analysis
+2. ~~Analysis~~
   * Exercises
 3. Basic Data Structures
   * Exercises
