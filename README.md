@@ -3,7 +3,7 @@
 Following along with the book to learn/practice implementing and solving problems with typical data structures and algorithms.
 
 1. ~~Intro~~
-  * Exercises
+  * Exercises (5/15)
 2. ~~Analysis~~
   * Exercises
 3. Basic Data Structures
