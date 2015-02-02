@@ -5,7 +5,7 @@ Following along with the book to learn/practice implementing and solving problem
 1. ~~Intro~~
   * Exercises (5/15)
 2. ~~Analysis~~
-  * Exercises
+  * Exercises (4/5)
 3. Basic Data Structures
   * Exercises
 4. Recursion
