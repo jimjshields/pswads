@@ -180,6 +180,8 @@ ol.add_item(4)
 ol.add_item(3)
 ol.add_item(-100)
 ol.add_item(-1)
+print ol.pop()
+print ol.pop(5)
 current = ol.get_head()
 while current != None:
 	print current.get_data()
